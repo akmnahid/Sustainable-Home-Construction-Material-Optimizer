@@ -22,15 +22,23 @@ This project is a **Sustainable Home Construction Material Optimizer** that allo
    ```
 
 3. **Run the application**:
-    - For a local development server:
-      ```bash
-      php -S localhost:8000
-      ```
+   - For a local development server:
+     ```bash
+     php -S localhost:8000
+     ```
 
 4. **Open the application** in your browser:
    ```
    http://localhost:8000/index.php
    ```
+
+### Install via Composer
+
+To include this package in your project, run the following command:
+
+```bash
+composer require akmnahid/sustainable-home-construction-material-optimizer
+```
 
 ## How to Use
 
