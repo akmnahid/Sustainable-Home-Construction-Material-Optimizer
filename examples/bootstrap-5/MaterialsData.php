@@ -2,8 +2,8 @@
 
 require '../../vendor/autoload.php';
 
-use App\DataProvider;
-use App\Material;
+use SustainableHomeConstruction\DataProvider;
+use SustainableHomeConstruction\Material;
 
 /**
  * MaterialsData implements DataProvider interface

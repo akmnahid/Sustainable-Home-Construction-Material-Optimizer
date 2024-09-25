@@ -1,10 +1,22 @@
 {
+  "name": "akmnahid/sustainable-home-construction-material-optimizer",
+  "description": "A PHP package for optimizing sustainable home construction materials.",
+  "type": "library",
   "require": {
     "php": "^8.1"
   },
   "autoload": {
     "psr-4": {
-      "App\\": "src/"
+      "SustainableHomeConstruction\\": "src/"
     }
-  }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Abu Kahab Mohammad Nahid Hossain",
+      "email": "mail@akmnahid.com"
+    }
+  ],
+  "homepage": "https://www.akmnahid.com",
+  "minimum-stability": "stable"
 }

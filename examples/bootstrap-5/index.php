@@ -3,7 +3,7 @@
 require __DIR__.'/../../vendor/autoload.php';
 require __DIR__.'/MaterialsData.php';
 
-use App\MaterialOptimizer;
+use SustainableHomeConstruction\MaterialOptimizer;
 
 // Initialize MaterialsData provider
 $provider = new MaterialsData();
